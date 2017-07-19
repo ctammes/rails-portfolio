@@ -1,0 +1,46 @@
+.header {
+  height: 100px;
+  background-color: #6B8E23;
+  color: white;
+}
+
+ul.header li {
+  family: 'Roboto';
+  display: inline;
+  list-style: none;
+}
+
+.header a {
+  color: white;
+}
+
+.header a:hover {
+  color: #6B8E23;
+}
+
+.main {
+  height: 500px;
+  width: 100%;
+  background: url(https://drive.google.com/uc?export=view&id=0Bwo8ChFuMpdJUl8xV1BGN3NscWc) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.footer {
+  height: 50px;
+  background-color: #6B8E23;
+  color: white;
+}
+
+.footer li {
+  display: inline;
+  list-style: none;
+  margin: 0 10px;
+}
+
+.footer img {
+  width: 20px;
+  height: 20px;
+}
